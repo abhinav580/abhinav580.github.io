@@ -129,6 +129,9 @@ a.dotted-link:hover {
 
 .header .profile-image {
   margin-right: 30px;
+  width: 200px;
+  height: 200px;
+
 }
 
 .header .profile-content .name {
@@ -206,6 +209,10 @@ a.dotted-link:hover {
 /* Latest Section */
 .latest .item {
   margin-bottom: 30px;
+}
+
+.mylabel {
+  font-size: 10px;
 }
 
 .latest .item .title {
