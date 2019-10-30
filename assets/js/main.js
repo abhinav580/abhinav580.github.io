@@ -31,7 +31,7 @@ jQuery(document).ready(function($) {
     $("#rss-feeds").rss(
     
         //Change this to your own rss feeds
-        "https://feeds.feedburner.com/TechCrunch/startups",
+        "http://feeds.feedburner.com/techieshots-abhinav",
         
         {
         // how many entries do you want?
@@ -63,7 +63,7 @@ jQuery(document).ready(function($) {
     );
     
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
-    new GitHubCalendar("#github-graph", "IonicaBizau");
+    new GitHubCalendar("#github-graph", "abhinav580");
     
     
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
